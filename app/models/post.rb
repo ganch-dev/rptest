@@ -3,7 +3,7 @@
 class Post < ApplicationRecord
 
   def test
-    puts "test"
+    puts "fix test"
   end
 
 end
