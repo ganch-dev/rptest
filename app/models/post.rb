@@ -6,4 +6,8 @@ class Post < ApplicationRecord
     puts "fix test"
   end
 
+  def what
+    puts "whaaaat"
+  end
+
 end
