@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ganch-dev/rptest/compare/v1.0.0...v1.1.0) (2024-12-25)
+
+
+### Features
+
+* new pr ([5920f1e](https://github.com/ganch-dev/rptest/commit/5920f1e3c457fa1235780f221528767804affe91))
+
 ## 1.0.0 (2024-12-25)
 
 
