@@ -86,7 +86,7 @@ jobs:
         id: release_please
         with:
           release-type: ruby
-          package-name: rptest
+          package-name: ${{ github.repository }}
 
   publish_image:
     name: Publish Image
