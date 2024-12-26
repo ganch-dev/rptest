@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ganch-dev/rptest/compare/v1.1.0...v1.2.0) (2024-12-26)
+
+
+### Features
+
+* new home ([4d64b71](https://github.com/ganch-dev/rptest/commit/4d64b7114ea8cee3bceea4539fe30e76b91dc4d5))
+
 ## [1.1.0](https://github.com/ganch-dev/rptest/compare/v1.0.0...v1.1.0) (2024-12-25)
 
 
